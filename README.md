@@ -1,14 +1,14 @@
 Use react-router-dom for creating pages:
-npm i react-router-dom
+### `npm i react-router-dom`
 
 Use this mock data:
 https://jsonplaceholder.typicode.com/todos
 
 Use axios:
-npm install axios
+### `npm install axios`
 
 Use uuid for hard coded values (uncomment parts of code in App.js):
-npm install uuid
+### `npm install uuid`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
