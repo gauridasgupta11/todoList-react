@@ -7,7 +7,7 @@ https://jsonplaceholder.typicode.com/todos
 Use axios:
 npm install axios
 
-Use uuid for hard coded values:
+Use uuid for hard coded values (uncomment parts of code in App.js):
 npm install uuid
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
